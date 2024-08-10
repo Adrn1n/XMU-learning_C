@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701490331 source:e:\files\c\code_blocks_projects\20231129zuoye\xiti8.16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
